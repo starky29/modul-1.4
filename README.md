@@ -21,6 +21,16 @@
 ![image](https://github.com/user-attachments/assets/e7c65c64-c3fc-46f2-a85d-83ffaa17bf63)
 3. 
 ![image](https://github.com/user-attachments/assets/dde443ab-4a5e-4492-b531-e161d801a998)
+4. 
+![image](https://github.com/user-attachments/assets/7fd8aafa-e30a-4eea-9ba5-1c6247ebe8e7)
+5. 
+![image](https://github.com/user-attachments/assets/69e2c555-4c10-4bf1-81e2-547e36d0707f)
+6. 
+![image](https://github.com/user-attachments/assets/3bcf6b39-018e-4805-a659-2717f0d95df6)
+
+7. Суть варнинга в том, что docker compose не видит 1 из монифестов и предлагает очистить историю о нем. 
+![image](https://github.com/user-attachments/assets/5c31528b-cc9c-4408-8625-4ca0a57a5086)
+
 
 
 
