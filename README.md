@@ -29,6 +29,7 @@
 5. 
 ![image](https://github.com/user-attachments/assets/69e2c555-4c10-4bf1-81e2-547e36d0707f)
 6. 
+
 ![image](https://github.com/user-attachments/assets/3bcf6b39-018e-4805-a659-2717f0d95df6)
 
 7. Суть варнинга в том, что docker compose не видит 1 из монифестов и предлагает очистить историю о нем. 
