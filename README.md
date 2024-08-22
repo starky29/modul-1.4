@@ -13,6 +13,9 @@
 - ![image](https://github.com/user-attachments/assets/762d5927-8fb6-4fe6-9428-4a2d249b7fa1)
 - ![image](https://github.com/user-attachments/assets/97f4cb96-d42a-4c02-8845-cea5a04a15da)
 ## Задание 4.
+- Для того что бы контейнеры с ос не гасли пришлось при запуске команды запустить команду tail -f /etc/passwd для того что бы процесс висел и не тушил контейнер
+![image](https://github.com/user-attachments/assets/da15d381-a4fe-4c90-9995-d38941d60fc5)
+- ![image](https://github.com/user-attachments/assets/08a2cbc7-e591-44b5-9399-4b55dd14f42e)
 
 ## Задание 5.
 1. compose.yaml - это современный версия описания, docker-compose.yaml же более старая версия и если запускать docker compose из дериктории где оба файла то запуститься более современная версия.
